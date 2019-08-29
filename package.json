@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-discovery",
-  "version": "0.2.0",
+  "name": "iotize-cordova-plugin-discovery",
+  "version": "0.0.1",
   "description": "Simple plugin to get any SSDP / UPnP / DLNA service on a local network",
   "cordova": {
-    "id": "com.scott.serviceDiscovery",
+    "id": "iotize-cordova-plugin-discovery",
     "platforms": [
       "android",
       "ios"
@@ -11,12 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/scottdermott/cordova-plugin-discovery.git"
+    "url": "git+https://github.com/iotize-sas/iotize-cordova-plugin-discovery.git"
   },
   "keywords": [
     "ecosystem:cordova",
     "cordova-android",
-    "cordova-ios"
+    "cordova-ios",
+    "iotize"
   ],
   "engines": [
     {
@@ -25,9 +26,12 @@
     }
   ],
   "author": "Scott Dermott",
+  "contributors": [
+    "Stéphane Léonard",
+  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/scottdermott/cordova-plugin-discovery/issues"
+    "url": "https://github.com/iotize-sas/iotize-cordova-plugin-discovery/issues"
   },
-  "homepage": "https://github.com/scottdermott/cordova-plugin-discovery#readme"
+  "homepage": "https://github.com/iotize-sas/iotize-cordova-plugin-discovery#readme"
 }

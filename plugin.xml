@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
-        id="com.scott.serviceDiscovery"
-        version="0.2.0">
+        id="iotize-cordova-plugin-discovery"
+        version="0.0.1">
 
-  <name>serviceDiscovery</name>
+  <name>iotize-cordova-plugin-discovery</name>
 
   <engines>
     <engine name="cordova" version=">=3.4.0"/>
